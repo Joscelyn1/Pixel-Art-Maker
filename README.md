@@ -4,7 +4,7 @@ This application lets you make pixel art. Choose how large you want your grid to
 
 ## Installation
 
-See a live demo [here](https://joscelyn1.github.io/Pixel-Art-Maker/).
+See a live demo [here](https://josswritescode.github.io/Pixel-Art-Maker/).
 
 1. Download and unzip the file.
 2. Double click the index.html file.
